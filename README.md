@@ -1,2 +1,2 @@
 <h1 align="center"> Hi this is Mahdis 🙂</h1>
-
+Front-End Developer with over three years of experience in designing and implementing responsive websites. Experienced in working on various projects using core web technologies such as HTML, CSS, JavaScript, and Bootstrap. Focused on development with React.js, with a strong understanding of its core concepts including working with components, state management, API integration, and using libraries such as React Router, React Query, Tailwind CSS, and more. Proficient in Git and familiar with UI/UX design principles.
